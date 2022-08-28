@@ -1,0 +1,12 @@
+type sysfs_health, sysfs_type, fs_type;
+type sysfs_sec_key, sysfs_type, fs_type;
+type adsprpcd_file, file_type;
+type bt_firmware_file, file_type;
+type firmware_file, file_type;
+type persist_file, file_type;
+type proc_touchpanel, fs_type;
+type livedisplay_data_file, data_file_type, file_type;
+type sysfs_lcd_writable, sysfs_type, fs_type;
+
+# FPS Info
+type sysfs_fps, sysfs_type, fs_type;
